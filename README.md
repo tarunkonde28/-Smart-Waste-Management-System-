@@ -24,7 +24,10 @@ The ultrasonic sensor measures the garbage level. ESP32 processes the data and s
 
 📷 Project Output
 
-(Add your images here)
+<img width="363" height="472" alt="image" src="https://github.com/user-attachments/assets/4b3c1798-6ef2-47c1-b32f-ae91d378c67a" />
+<img width="590" height="279" alt="image" src="https://github.com/user-attachments/assets/b4e389b6-3984-4393-9cfb-71dcbcf9c7a5" />
+
+
 
  Features
 
